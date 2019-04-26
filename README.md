@@ -1,28 +1,35 @@
 # Quotes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+#### Description
 
-## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6. It is an online website that host different quotes from different people. The quotes can be up voted and down voted and the quote with the most up votes is the one that is highlighted. People can also contribute their own cutom quotes as they wish.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### By **Ian Kurao**
 
-## Code scaffolding
+## Setup/Installation Requirements
+* Fork the data onto your own personal repository.
+* Clone the project.
+* run 'ng install' on terminal
+* run 'ng serve' on terminal
+* To access the live website, click on this url https://iankurao.github.io/quotes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Known Bugs
 
-## Build
+No Bugs
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Technologies Used
 
-## Running unit tests
+HTML for Designing the Webpage.
+CSS for styling.
+Typescript used for Back-End-Development
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Dependencies
 
-## Running end-to-end tests
+Angular CLI
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Support and contact details
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# quotes
+Contact me using:
+Telephone: +(254) 723-475-550
+Email:kuraoian@gmail.com
+slack:@Ian
