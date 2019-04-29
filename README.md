@@ -48,3 +48,9 @@ Contact me using:
 Telephone: +(254) 723-475-550
 Email:kuraoian@gmail.com
 slack:@Ian
+
+
+### License and Copyright details
+
+The MIT License (MIT)
+Copyright (c) 2019**Ian Kurao**
