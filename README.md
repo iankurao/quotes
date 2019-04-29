@@ -13,6 +13,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * run 'ng serve' on terminal
 * To access the live website, click on this url https://iankurao.github.io/quotes
 
+
+
+## BDD
+
+| Behavior- Our program should handle: | Input Example- When it receives: | Output Example- It should return: |
+| :-------------: | :-------------: | :-------------: |
+| Enter Quote | Work hard in silence | Add quote: "Work hard in silence" |
+| Delete a quote | Delete Action | Deleted Quote |
+| Up Vote a Quote | Up vote action | Up votes + 1 |
+| Down Vote a Quote | Down vote action | Down votes + 1 |
+
+
+
+
+
 ## Known Bugs
 
 No Bugs
